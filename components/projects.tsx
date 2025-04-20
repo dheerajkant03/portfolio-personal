@@ -71,15 +71,11 @@ export default function Projects() {
       description: "A short documentary about student life at IIITD, edited with DaVinci Resolve.",
       image: "/placeholder.svg?height=400&width=600",
       media: [
-        {
-          type: "video",
-          url: "/media/video/documentary.mp4",
-          thumbnail: "/media/video/documentary-thumb.jpg",
-        },
+        { type: "image", url: "/media/video/documentary-thumb.jpg"},
         { type: "image", url: "/media/video/behind1.jpg" },
         { type: "image", url: "/media/video/behind2.jpg" },
       ],
-      category: "video",
+      category: "photo",
     },
     {
       id: "4",
