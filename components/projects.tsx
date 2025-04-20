@@ -75,7 +75,7 @@ export default function Projects() {
         { type: "image", url: "/media/video/behind1.jpg" },
         { type: "image", url: "/media/video/behind2.jpg" },
       ],
-      category: "photo",
+      category: "video",
     },
     {
       id: "4",
